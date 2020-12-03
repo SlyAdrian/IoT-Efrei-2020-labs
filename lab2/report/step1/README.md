@@ -2,7 +2,7 @@
 
 ## Objective
 
-Dealing with I2C comunication and identifying SDA & SCL ports.
+Use of some weather sensors
 
 ## Code
 
