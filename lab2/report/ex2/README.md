@@ -2,7 +2,7 @@
 
 ## Objective
 
-Dealing with I2C comunication
+Dealing with I2C comunication and identifying SDA & SDL ports.
 
 ## Code
 
