@@ -2,7 +2,7 @@
 
 ## Objective
 
-Change colors of an RGB LED 5 times with 1 second delay between each color.
+Change colors of an RGB LED 5 times with 1 second delay between each change.
 
 ## Code
 
