@@ -1,12 +1,5 @@
 # IoT-Efrei-2020-labs
 labs of IOT M1-Semester7
-
-
-
-No issues encountered.
-
-# IoT-Efrei-2020-labs
-labs of IOT M1-Semester7
 Lab2
 
 ## Objectives
