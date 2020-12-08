@@ -13,7 +13,9 @@ Finally, we had to display something on our screens.
 
 ## Board Image
 
-![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab2/report/ex1/Serial.png)
+![Image of the breadboard schema1](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/report/step1-2-3/20201208_102034.jpg)
+
+![Image of the breadboard schema2](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/report/step1-2-3/20201208_102034.jpg)
 
 ## Issues 
 
