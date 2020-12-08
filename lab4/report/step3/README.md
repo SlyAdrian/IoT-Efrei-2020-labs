@@ -2,7 +2,7 @@
 
 ## Objective
 
-The aim was making the LED blink with the ESP32.
+The aim was to make the LED blink with the ESP32.
 
 ## Code
 
