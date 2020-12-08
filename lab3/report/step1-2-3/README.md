@@ -8,8 +8,11 @@ The second step was about doing the breadboard schema.
 Finally, we had to display something on our screens.
 
 ## Code
+## Hello world
+[Code](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/steps/step1-2-3/step1/step1.ino)
 
-[Code](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/steps/step1-2-3/step1.ino)
+## Step 3 New
+[Code](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/steps/step1-2-3/step3/step3.ino)
 
 ## Board Image
 
