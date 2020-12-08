@@ -7,11 +7,11 @@ First, we the installation of the ESP32 on arduino and after with the location o
 
 ## Code
 
-[Code](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab3/steps/step1-2/step1.ino)
+[Code](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/steps/step1-2/step1.ino)
 
 ## Board Image
 
-![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/ex1/Serial.png)
+![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/step1-2/ESP32.jpg)
 
 ## Issues 
 
