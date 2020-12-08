@@ -6,7 +6,7 @@ labs of IOT M1-Semester7
 ## Objectives
 
 The lab was about having a first touch with arduino Screen displaying ecosystem.
-We dealed with the different ways displaying information on an OLED and LED screens.
+We dealed with the different ways to display information on an OLED and LED screens.
 
 ## Exercices
 
