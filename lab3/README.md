@@ -1,17 +1,17 @@
 # IoT-Efrei-2020-labs
 labs of IOT M1-Semester7
-Lab2
+Lab3
 
 ## Objectives
 
-The lab was about having a first touch with arduino ecosystem.
-We dealed with the different ways of communication such as Serial or I2C in Arduino.
+The lab was about having a first touch with arduino Screen displaying ecosystem.
+We dealed with the different ways displaying information on an OLED and LED screens.
 
 ## Exercices
 
-* [Exercise 1](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab2/report/ex1)
-* [Exercise 2](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab2/report/ex2)
-* [Step 1](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab2/report/step1)
+* [Step 1-2-3](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab3/report/step1-2-3)
+* [Step 4](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab3/report/step4)
+* [Step 5](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/tree/main/lab3/report/step5)
 
 
 ## Issues
