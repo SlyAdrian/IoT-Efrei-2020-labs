@@ -2,7 +2,7 @@
 
 ## Objective
 
-The aim was making the LED blink with the ESP32.
+The aim was to make the LED blink with the ESP32.
 
 ## Code
 
@@ -10,7 +10,7 @@ The aim was making the LED blink with the ESP32.
 
 ## Board Image
 
-![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab2/report/ex1/Serial.png)
+![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/step3/20201208_102034.jpg)
 
 ## Issues 
 
