@@ -11,7 +11,7 @@ Here we have to do it with the ESP32.
 
 ## Board Image
 
-![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/ex1/Serial.png)
+![Image of the breadboard schema2](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/ex3/received_2449799351994874.jpeg)
 
 ## Issues 
 
