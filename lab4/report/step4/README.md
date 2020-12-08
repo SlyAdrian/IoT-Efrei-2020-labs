@@ -10,7 +10,8 @@ The aim was to add an OLED display to the ESP32
 
 ## Board Image
 
-![Image of the breadboard schema](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab2/report/ex1/Serial.png)
+![Image of the breadboard schema2](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/step4/received_2449799351994874.jpeg)
+![Image of the breadboard schema1](https://github.com/SlyAdrian/IoT-Efrei-2020-labs/blob/main/lab4/report/step4/received_1823815171092453.jpeg)
 
 ## Issues 
 
